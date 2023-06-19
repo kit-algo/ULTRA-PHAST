@@ -1,5 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# **NOTE: This repository is outdated. Please refer to https://github.com/kit-algo/ULTRA.**
+---
+
 # ULTRA-PHAST
 One-to-many variant of ULTRA
 
